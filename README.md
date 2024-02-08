@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheikh Wahab Mahmood
-- 👀 iOS and Web developer (Swift | React | Angular)
+- 👀 Software Enginner (Swift | JavaScript | React | Angular)
 - 📫 How to reach me? email me at waha99922@gmail.com
 
 <!---
